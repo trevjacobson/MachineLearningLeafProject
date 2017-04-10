@@ -1,0 +1,14 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: finalproject_Jacobson.aux
+The style file: plain.bst
+Database file #1: references01.bib
+Name 1 in "R. Anand, S. Veni, and J. Aravinth" has a comma at the end for entry Art2
+while executing---line 1049 of file plain.bst
+Name 1 in "J. Xiao, W. Dongfang, and H. Jiancang" has a comma at the end for entry Art5
+while executing---line 1049 of file plain.bst
+Name 1 in "J. Xiao, W. Dongfang, and H. Jiancang" has a comma at the end for entry Art5
+while executing---line 1090 of file plain.bst
+Warning--empty booktitle in Art5
+Name 1 in "R. Anand, S. Veni, and J. Aravinth" has a comma at the end for entry Art2
+while executing---line 1090 of file plain.bst
+Warning--empty note in Art3
+(There were 4 error messages)
